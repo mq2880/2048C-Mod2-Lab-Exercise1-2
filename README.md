@@ -1,10 +1,12 @@
-# Creating and Styling HTML5 Pages
+# Module 2: Creating and Styling HTML5 Pages
 
 **Nombre:** Francisco Javier Moreno Quevedo
 
 **Fecha:** 24/09/2020
 
-**Resumen del Ejercicio:** El laboratorio se compone de dos ejercicios. En el ejercicio 1 Se crea la página de inicio y la de about y en el ejercicio 2 se le da el estilo deseado
+**Resumen del Ejercicio:** El laboratorio se compone de dos ejercicios. En el ejercicio 1 Se crea la página de inicio y la de about y en el ejercicio 2 se le da el estilo deseado.
+
+**Dificultad o problemas presentados y como se resolvieron:** Ninguna
 
 - **Ejercicio 1**
 
